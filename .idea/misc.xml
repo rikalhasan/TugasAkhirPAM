@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudio/PAM/TugasAkhirPAM/app/src/main/res/drawable/bg_bottom.xml" value="0.2545" />
+        <entry key="..\:/AndroidStudio/PAM/TugasAkhirPAM/app/src/main/res/drawable/bg_top.xml" value="0.2545" />
+        <entry key="..\:/AndroidStudio/PAM/TugasAkhirPAM/app/src/main/res/drawable/bottom_background_light_green.xml" value="0.1" />
+        <entry key="..\:/AndroidStudio/PAM/TugasAkhirPAM/app/src/main/res/drawable/button_background_green.xml" value="0.1" />
+        <entry key="..\:/AndroidStudio/PAM/TugasAkhirPAM/app/src/main/res/drawable/button_background_green2.xml" value="0.1" />
+        <entry key="..\:/AndroidStudio/PAM/TugasAkhirPAM/app/src/main/res/drawable/green_banner_background.xml" value="0.1" />
+        <entry key="..\:/AndroidStudio/PAM/TugasAkhirPAM/app/src/main/res/drawable/white_btn_background.xml" value="0.1" />
+        <entry key="..\:/AndroidStudio/PAM/TugasAkhirPAM/app/src/main/res/layout/activity_main.xml" value="0.2828571524912001" />
+        <entry key="..\:/AndroidStudio/PAM/TugasAkhirPAM/app/src/main/res/layout/activity_materi.xml" value="0.21428572158424247" />
+        <entry key="..\:/AndroidStudio/PAM/TugasAkhirPAM/app/src/main/res/layout/activity_materi1.xml" value="0.21428572158424247" />
+        <entry key="..\:/AndroidStudio/PAM/TugasAkhirPAM/app/src/main/res/layout/activity_materi2.xml" value="0.13044579533941236" />
+        <entry key="..\:/AndroidStudio/PAM/TugasAkhirPAM/app/src/main/res/layout/activity_materi3.xml" value="0.13728470111448834" />
+        <entry key="..\:/AndroidStudio/PAM/TugasAkhirPAM/app/src/main/res/layout/activity_permainan.xml" value="0.2682291666666667" />
+        <entry key="..\:/AndroidStudio/PAM/TugasAkhirPAM/app/src/main/res/layout/activity_profile.xml" value="0.2828571524912001" />
+        <entry key="..\:/AndroidStudio/PAM/TugasAkhirPAM/app/src/main/res/layout/activity_quiz.xml" value="0.13703140830800406" />
+        <entry key="..\:/AndroidStudio/PAM/TugasAkhirPAM/app/src/main/res/layout/activity_tambah.xml" value="0.1" />
+        <entry key="..\:/AndroidStudio/PAM/TugasAkhirPAM/app/src/main/res/layout/fragment_materi1.xml" value="0.13728470111448834" />
+        <entry key="..\:/AndroidStudio/PAM/TugasAkhirPAM/app/src/main/res/layout/hasil_kuis.xml" value="0.2828571524912001" />
+        <entry key="..\:/AndroidStudio/PAM/TugasAkhirPAM/app/src/main/res/layout/layout_item.xml" value="0.2828571524912001" />
+        <entry key="..\:/Arsip/Kuliah/Semester 10/Pemograman Aplikasi Mobile/AndroidStudio/PAM/TugasAkhirPAM/app/src/main/res/layout/activity_profile.xml" value="0.18327272091700048" />
+        <entry key="..\:/Arsip/Kuliah/Semester 10/Pemograman Aplikasi Mobile/TugasAkhirPAM/app/src/main/res/layout/activity_profile.xml" value="0.2911458333333333" />
+        <entry key="..\:/Arsip/Kuliah/Semester 10/Pemograman Aplikasi Mobile/TugasAkhirPAM/app/src/main/res/layout/activity_quiz.xml" value="0.2911458333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
