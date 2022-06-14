@@ -104,7 +104,7 @@ public class QuizActivity extends AppCompatActivity {
             }
         }
         else {
-            Toast.makeText(this, "Silahkan diisi dulu", Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, "Silahkan di isi dulu", Toast.LENGTH_SHORT).show();
         }
     }
 }
